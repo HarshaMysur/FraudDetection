@@ -1,8 +1,7 @@
 # FraudDetection
 
-
-Include a write up of your data analysis as you solve this problem. For things to include in this report you can write about:
 The kind of algorithms you tried out.
+
 I tried SVM and Random Decision Forest
 
 How accurately is your model able to predict results
