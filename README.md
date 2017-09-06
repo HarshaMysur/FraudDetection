@@ -7,10 +7,12 @@ I tried SVM and Random Decision Forest
 How accurately is your model able to predict results
 
 Random Decision Forest
+
 Precision: 0.9237
 Recall: 0.72
 
 SVM
+
 Precision: 0.9155
 Recall: 0.73
 
